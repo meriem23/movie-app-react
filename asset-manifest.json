@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movie-app-react/static/css/main.cf8c063a.chunk.css",
+    "main.js": "/movie-app-react/static/js/main.8a5c1474.chunk.js",
+    "main.js.map": "/movie-app-react/static/js/main.8a5c1474.chunk.js.map",
+    "runtime-main.js": "/movie-app-react/static/js/runtime-main.43c8e768.js",
+    "runtime-main.js.map": "/movie-app-react/static/js/runtime-main.43c8e768.js.map",
+    "static/css/2.de424728.chunk.css": "/movie-app-react/static/css/2.de424728.chunk.css",
+    "static/js/2.c662e5f3.chunk.js": "/movie-app-react/static/js/2.c662e5f3.chunk.js",
+    "static/js/2.c662e5f3.chunk.js.map": "/movie-app-react/static/js/2.c662e5f3.chunk.js.map",
+    "index.html": "/movie-app-react/index.html",
+    "precache-manifest.0c81df01e85ea2fcf3d24364412eb59e.js": "/movie-app-react/precache-manifest.0c81df01e85ea2fcf3d24364412eb59e.js",
+    "service-worker.js": "/movie-app-react/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/movie-app-react/static/css/2.de424728.chunk.css.map",
+    "static/css/main.cf8c063a.chunk.css.map": "/movie-app-react/static/css/main.cf8c063a.chunk.css.map",
+    "static/js/2.c662e5f3.chunk.js.LICENSE.txt": "/movie-app-react/static/js/2.c662e5f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43c8e768.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c662e5f3.chunk.js",
+    "static/css/main.cf8c063a.chunk.css",
+    "static/js/main.8a5c1474.chunk.js"
+  ]
+}
